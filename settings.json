@@ -8,11 +8,11 @@
   "server": {
     "ip": "bountyhunters-DvAQ.aternos.me",
     "port": 41405,
-    "version": "1.26.30",
+    "version": "",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
